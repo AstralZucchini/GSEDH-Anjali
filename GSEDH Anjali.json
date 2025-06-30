@@ -1,0 +1,43 @@
+{
+	"repo_name": "Grim Scenarios Custom EDH",
+	"data": 
+	[
+		{
+			"name": "Anjali, Who Bleeds Silver // Those Forsaken by the Moon",
+			"type": "custom",
+			"id": "5",
+			"mana_cost": "{3}{G}",
+			"cmc": 4,
+			"type_line": "Legendary Creature — Human Werewolf // Legendary Creature — Eldrazi Werewolf",
+			"colors": [
+				"G"
+			],
+			"color_identity": [
+				"U",
+				"R",
+				"G"
+			],
+			"card_faces": [
+				{
+					"name":"Anjali, Who Bleeds Silver",
+					"image_uris": {
+						"large": "https://i.imgur.com/iZOizF4.png"},
+					"mana_cost": "{3}{G}",
+					"type_line": "Legendary Creature — Human Werewolf",
+					"oracle_text": "Duskbringer {3}{U}{R} (You may cast this card for {3}{U}{R} or pay {3}{U}{R} as a sorcery. When you do, it becomes night.)\nWhenever this creature enters or transforms into Anjali, create a 3/2 Wolf creature token, then you may put a permanent card from your graveyard on top of your library.\nDaybound",
+					"power": "2",
+					"toughness": "3"
+				},
+				{
+					"name":"Those Forsaken by the Moon",
+					"image_uris": {
+						"large": "https://i.imgur.com/6XPTPbe.png"},
+					"type_line": "Legendary Creature — Eldrazi Werewolf",
+				"oracle_text": "Dawnbringer {3}{G} (You may pay {3}{G} as a sorcery. When you do, it becomes day.)\nWhenever this creature enters or transforms into Those Forsaken by the Moon, if you control a token creature, discover X, where X is the greatest power among creature tokens you control.\nNightbound",
+					"power": "5",
+					"toughness": "5"
+				}
+			]
+		}
+	]
+}
