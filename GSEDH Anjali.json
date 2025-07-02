@@ -33,6 +33,7 @@
           "image_uris": {
             "large": "https://i.imgur.com/6XPTPbe.png"
           },
+          "mana_cost": "{3}{G}",
           "type_line": "Legendary Creature — Eldrazi Werewolf",
           "oracle_text": "Dawnbringer {3}{G} (You may pay {3}{G} as a sorcery. When you do, it becomes day.)\nWhenever this creature enters or transforms into Those Forsaken by the Moon, if you control a token creature, discover X, where X is the greatest power among creature tokens you control.\nNightbound",
           "power": "5",
